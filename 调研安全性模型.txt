@@ -1,0 +1,1 @@
+一般群模型：Boneh, D., Boyen, X., Goh, E.-J.: Hierarchical Identity Based Encryption with Constant Size Ciphertext.
